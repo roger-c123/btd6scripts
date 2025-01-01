@@ -1,6 +1,6 @@
-### BTD 6 Script
+### BTD 6 Bot
 
-This is a windows script that plays for you assuming you use cheat engine to freeze your gold. You need to play at 1920 x 1080 and keep the game focused. 
+This is a windows AHK bot that plays for you assuming you use cheat engine to freeze your gold. You need to play at 1920 x 1080 and keep the game focused. 
 
 It attempts to get every medal on every map (including CHIMPS and expert map). 
 
